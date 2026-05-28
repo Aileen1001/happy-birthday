@@ -1,1 +1,3 @@
-git add img/wen.png
+git add wen.jpg
+git commit -m "添加新图片"
+git push
